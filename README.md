@@ -9,7 +9,7 @@
 - 🌱 Currently working on **JARVIS AI VOICE SYSTEM and Facial and Hand Gesture Tracking [Will be available soon.]**.  
 
 ## 🛠 Tech Stack  
-![Languages](https://skillicons.dev/icons?i=python,cpp,c,nodejs)  
+![Languages](https://skillicons.dev/icons?i=python,cpp,c,nodejs,html,css,js)  
 ![Frameworks & Libraries](https://skillicons.dev/icons?i=flask,sc)  
 ![Tools & Platforms](https://skillicons.dev/icons?i=git,linux)  
 
@@ -24,6 +24,7 @@
 - 🔹 **[Flappy Bird](#)** – A clone of flappy bird
 - 🔹 **[Music Bot for discord](#)** – Code for the music bot on discord 
 - 🔹 **[AI Chat Response Bot for discord.](#)** - An AI chat response bot based on the gemini model for discord
+- **[Interactive Ramayan Website.](#)** - my 1st website deployment - code is in github repos - Deployed Link: https://ramayan-website.vercel.app/
 
 
 ## Documentation for some featuring Projects
