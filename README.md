@@ -24,7 +24,8 @@
 - 🔹 **[Flappy Bird](#)** – A clone of flappy bird
 - 🔹 **[Music Bot for discord](#)** – Code for the music bot on discord 
 - 🔹 **[AI Chat Response Bot for discord.](#)** - An AI chat response bot based on the gemini model for discord
-- **[Interactive Ramayan Website.](#)** - my 1st website deployment - code is in github repos - Deployed Link: https://ramayan-website.vercel.app/
+- 🔹**[Interactive Ramayan Website.](#)** - My 1st website deployment - code is in github repos - Deployed Link: https://ramayan-website.vercel.app/
+- 🔹**[Text-gician](#)** - A website where you can do anything with the text, analyse it, convert it to any other form with the power of Gemini AI - Link - https://text-gician.onrender.com/    
 
 
 ## Documentation for some featuring Projects
