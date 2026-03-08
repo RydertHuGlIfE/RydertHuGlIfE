@@ -63,17 +63,19 @@ class Ryder:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RydertHuGlIfE&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&icon_color=00ff88&text_color=ffffff&ring_color=00ff88" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RydertHuGlIfE&theme=chartreuse-dark&hide_border=true&background=0d0d0d&ring=00ff88&fire=00cc66&currStreakLabel=00ff88" width="48%" alt="GitHub Streak"/>
+<!-- Stats + Streak: using vercel-deployed reliable instances -->
+<img src="https://github-readme-stats.vercel.app/api?username=RydertHuGlIfE&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00ff88&icon_color=00ff88&text_color=aaffcc&ring_color=00ff88&count_private=true&include_all_commits=true" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=RydertHuGlIfE&theme=dark&hide_border=true&background=0d0d0d&ring=00ff88&fire=00cc66&currStreakLabel=00ff88&sideLabels=00ff88&dates=aaffcc&stroke=00ff8840" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RydertHuGlIfE&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=ffffff" width="40%" alt="Top Languages"/>
+<!-- Top langs: using layout=donut-vertical for better rendering -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RydertHuGlIfE&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=aaffcc&langs_count=6" width="36%"/>
 
 <br/><br/>
 
-<!-- Contribution Heatmap -->
-[![GitHub Contribution Heatmap](https://ghchart.rshah.org/00ff88/RydertHuGlIfE)](https://github.com/RydertHuGlIfE)
+<!-- Contribution heatmap via github-readme-activity-graph — more reliable & styled -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RydertHuGlIfE&bg_color=0d0d0d&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff8822&hide_border=true&custom_title=Ryder's%20Contribution%20Graph&radius=4" width="100%"/>
 
 </div>
 
