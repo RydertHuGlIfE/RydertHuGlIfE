@@ -66,7 +66,7 @@ class Ryder:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RydertHuGlIfE&bg_color=0d0d0d&color=00ff88&line=00ff88&point=00ff88&area=true&hide_border=true" width="100%">
+![snake gif](https://github.com/RydertHuGlIfE/RydertHuGlIfE/blob/output/github-snake-dark.svg)
 
 </p>
 
