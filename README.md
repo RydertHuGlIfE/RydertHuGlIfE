@@ -1,44 +1,39 @@
 <div align="center">
 
-# 👋 Hello, I'm Varun, aka Ryder_2001
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, I'm Varun, aka Ryder_2001
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=600&height=80&lines=Welcome+to+my+Github+Profile!;I'm+Ryder!;Building+the+Future+with+AI)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=RydertHuGlIfE&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
----
+<br>
 
 ### 🚀 About Me  
 **Technology Enthusiast | AI/ML Developer | Problem Solver**
 <br>
 - 💻 Passionate about pushing the boundaries of technology and coding.  
 - 🎯 Deeply interested in **Python & AIML**.  
-- 🌱 Currently engineering the **JARVIS AI VOICE SYSTEM** & **Facial/Hand Gesture Tracking** *(Coming soon!)*.  
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
 ### 🛠 Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,nodejs,html,css,js,flask,sc,git,linux&perline=11" alt="Tech Stack" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
-### 📈 GitHub Stats & Activity  
+### 📈 GitHub Stats & Contributions  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RydertHuGlIfE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RydertHuGlIfE&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RydertHuGlIfE/RydertHuGlIfE/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RydertHuGlIfE/RydertHuGlIfE/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RydertHuGlIfE/RydertHuGlIfE/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://ghchart.rshah.org/00F0FF/RydertHuGlIfE" alt="Ryder's Github Chart" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
 ### 🌟 Featured Projects  
 
@@ -49,7 +44,7 @@
 | **📚 KitaabGyaani** *(In Progress)* | A powerful intelligent document analysis and synthesis engine designed to provide deep reading insights. | [View Repo](https://github.com/RydertHuGlIfE/KitaabGyaani) |
 | **🖥️ rstui** | A custom project designed to streamline and enhance user interfaces. | [View Repo](https://github.com/RydertHuGlIfE/rstui) |
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
 ### 📫 Connect With Me  
 <p align="center">
@@ -62,7 +57,7 @@
 </p>
 
 <p align="center">
-  ✨ <i>Feel free to check out my repositories and contribute!</i> ✨
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=500&color=00F0FF&center=true&vCenter=true&width=600&height=50&lines=Feel+free+to+check+out+my+repositories+and+contribute!" alt="Typing footer" />
 </p>
 
 </div>
