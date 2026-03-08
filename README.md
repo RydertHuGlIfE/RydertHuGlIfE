@@ -74,15 +74,24 @@ class Ryder:
 
 <div align="center">
 
-| 🖥️ RSTUI — Rsync Terminal UI                                                                                                                                                    | 💣 RL Minesweeper AI Agent                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| An interactive, high-performance **TUI for file transfers** using `rsync` + `sshpass`, built in Python. Visual filesystem browser, profiles, delta transfers, and progress bars. | An AI agent trained to beat Minesweeper using **SFT + Reinforce4D** training pipeline. Built for IIT Delhi Feb '26 hackathon. |
-| `Python` `rsync` `TUI` `Linux/macOS`                                                                                                                                             | `Python` `Reinforcement Learning`                                                                                             |
-| [View Repo](https://github.com/RydertHuGlIfE/rstui)                                                                                                                              | [View Repo](https://github.com/RydertHuGlIfE/IITD_Feb26_RL_MINESWEEPER)                                                       |
+| 🖥️ RSTUI — Rsync Terminal UI | 💣 RL Minesweeper AI Agent |
+|---|---|
+| An interactive, high-performance **TUI for file transfers** using `rsync` + `sshpass`, built in Python. Visual local/remote filesystem browser, profile management, delta-transfer engine, and real-time progress bars. | An AI agent trained to beat Minesweeper using **SFT + Reinforce4D** training pipeline. Built for IIT Delhi Feb '26 hackathon — real-world RL applied to a classic game. |
+| `Python` `rsync` `TUI` `Linux/macOS` | `Python` `Reinforcement Learning` `SFT` |
+| [![View →](https://img.shields.io/badge/View_Repo-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/RydertHuGlIfE/rstui) | [![View →](https://img.shields.io/badge/View_Repo-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/RydertHuGlIfE/IITD_Feb26_RL_MINESWEEPER) |
+
+<br/>
+
+| 🌀 VortexMind 2.0 — AI Study Helper | 📖 KitaabGyaani — AI Knowledge Platform |
+|---|---|
+| An all-in-one **AI-powered study companion** packed with tools to supercharge learning and productivity. Multi-tool suite with AI-assisted workflows built for students who want to learn smarter. | An ambitious **AI-powered document intelligence platform** for deep knowledge understanding and conversational Q&A over your own knowledge base. |
+| `Python` `AI/ML` `Flask` | `Python` `LLMs` `AI/ML` |
+| [![View →](https://img.shields.io/badge/View_Repo-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/RydertHuGlIfE/VortexMind_2.0) | [![View →](https://img.shields.io/badge/View_Repo-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/RydertHuGlIfE/KitaabGyaani) ![WIP](https://img.shields.io/badge/🚧_In_Progress-ff8800?style=flat-square) |
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 ## 🔭 Currently Building
 
