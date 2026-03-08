@@ -22,9 +22,7 @@
 class Ryder:
     name        = "Varun Chauhan"
     alias       = "Ryder_2001"
-    location    = "India 🇮🇳"
     focus       = ["Python", "AI/ML", "Systems Programming"]
-    building    = ["JARVIS AI Voice System", "Facial & Hand Gesture Tracking"]
     interests   = ["LLMs", "Reinforcement Learning", "Terminal UIs", "Productivity Tools"]
     philosophy  = "Ship code. Break things. Learn faster."
 ```
@@ -72,9 +70,6 @@ class Ryder:
 
 <br/><br/>
 
-<a href="https://github.com/RydertHuGlIfE">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RydertHuGlIfE&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=ffffff&langs_count=8" width="40%"/>
-</a>
 
 <br/><br/>
 
