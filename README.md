@@ -62,9 +62,6 @@ class Ryder:
 <div align="center">
 
 <a href="https://github.com/RydertHuGlIfE">
-  <img src="https://github-readme-stats.vercel.app/api?username=RydertHuGlIfE&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&icon_color=00ff88&text_color=ffffff&ring_color=00ff88&count_private=true" width="48%"/>
-</a>
-<a href="https://github.com/RydertHuGlIfE">
   <img src="https://streak-stats.demolab.com?user=RydertHuGlIfE&theme=dark&hide_border=true&background=0d0d0d&ring=00ff88&fire=00cc66&currStreakLabel=00ff88&sideLabels=00ff88&dates=aaffcc" width="48%"/>
 </a>
 
