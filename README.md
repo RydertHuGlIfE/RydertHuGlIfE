@@ -63,19 +63,23 @@ class Ryder:
 
 <div align="center">
 
-<!-- Stats + Streak: using vercel-deployed reliable instances -->
-<img src="https://github-readme-stats.vercel.app/api?username=RydertHuGlIfE&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00ff88&icon_color=00ff88&text_color=aaffcc&ring_color=00ff88&count_private=true&include_all_commits=true" width="48%"/>
-<img src="https://streak-stats.demolab.com?user=RydertHuGlIfE&theme=dark&hide_border=true&background=0d0d0d&ring=00ff88&fire=00cc66&currStreakLabel=00ff88&sideLabels=00ff88&dates=aaffcc&stroke=00ff8840" width="48%"/>
+<a href="https://github.com/RydertHuGlIfE">
+  <img src="https://github-readme-stats.vercel.app/api?username=RydertHuGlIfE&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&icon_color=00ff88&text_color=ffffff&ring_color=00ff88&count_private=true" width="48%"/>
+</a>
+<a href="https://github.com/RydertHuGlIfE">
+  <img src="https://streak-stats.demolab.com?user=RydertHuGlIfE&theme=dark&hide_border=true&background=0d0d0d&ring=00ff88&fire=00cc66&currStreakLabel=00ff88&sideLabels=00ff88&dates=aaffcc" width="48%"/>
+</a>
 
 <br/><br/>
 
-<!-- Top langs: using layout=donut-vertical for better rendering -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RydertHuGlIfE&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=aaffcc&langs_count=6" width="36%"/>
+<a href="https://github.com/RydertHuGlIfE">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RydertHuGlIfE&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=ffffff&langs_count=8" width="40%"/>
+</a>
 
 <br/><br/>
 
-<!-- Contribution heatmap via github-readme-activity-graph — more reliable & styled -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RydertHuGlIfE&bg_color=0d0d0d&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff8822&hide_border=true&custom_title=Ryder's%20Contribution%20Graph&radius=4" width="100%"/>
+<!-- GitHub Contribution Heatmap -->
+<img src="https://ghchart.rshah.org/00ff88/RydertHuGlIfE" alt="RydertHuGlIfE's Github chart" width="100%"/>
 
 </div>
 
