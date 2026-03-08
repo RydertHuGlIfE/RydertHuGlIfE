@@ -1,41 +1,68 @@
+<div align="center">
+
 # 👋 Hello, I'm Varun, aka Ryder_2001
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&width=435&height=100&lines=Welcome+to+my+Github+Profile!;I'm+Ryder!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=600&height=80&lines=Welcome+to+my+Github+Profile!;I'm+Ryder!;Building+the+Future+with+AI)](https://git.io/typing-svg)
 
-## 🚀 About Me  
-- 💻 Passionate about technology, programming, and problem-solving.  
-- 📚 Always learning new skills and exploring innovative ideas.  
-- 🎯 Interested in **Python and AIML**.  
-- 🌱 Currently working on **JARVIS AI VOICE SYSTEM and Facial and Hand Gesture Tracking [Will be available soon.]**.  
+<img src="https://komarev.com/ghpvc/?username=RydertHuGlIfE&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
-## 🛠 Tech Stack  
-![Languages](https://skillicons.dev/icons?i=python,cpp,c,nodejs,html,css,js)  
-![Frameworks & Libraries](https://skillicons.dev/icons?i=flask,sc)  
-![Tools & Platforms](https://skillicons.dev/icons?i=git,linux)  
+---
 
-## 📈 GitHub Stats  
+### 🚀 About Me  
+**Technology Enthusiast | AI/ML Developer | Problem Solver**
+<br>
+- 💻 Passionate about pushing the boundaries of technology and coding.  
+- 🎯 Deeply interested in **Python & AIML**.  
+- 🌱 Currently engineering the **JARVIS AI VOICE SYSTEM** & **Facial/Hand Gesture Tracking** *(Coming soon!)*.  
+
+---
+
+### 🛠 Tech Stack  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RydertHuGlIfE&show_icons=true&theme=github_dark&hide_border=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RydertHuGlIfE&theme=github-dark&hide_border=true" width="48%" alt="GitHub Streak"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,nodejs,html,css,js,flask,sc,git,linux&perline=11" alt="Tech Stack" />
 </p>
 
-## 🌟 Featured Projects   
-- 🔹 **[Flappy Bird](#)** – A clone of flappy bird
-- 🔹 **[Music Bot for discord](#)** – Code for the music bot on discord 
-- 🔹 **[AI Chat Response Bot for discord.](#)** - An AI chat response bot based on the gemini model for discord
-- 🔹**[Interactive Ramayan Website.](#)** - My 1st website deployment - code is in github repos 
-- 🔹**[Text-gician](#)** - A website where you can do anything with the text, analyse it, convert it to any other form with the power of Gemini AI...
+---
 
-## Documentation for some featuring Projects
-🔹[https://docs.google.com/document/d/1FTMChUy1pxRRK6mT4bqYs3yBV3sXFm-1X_pLltjvd5c/edit?tab=t.0]
+### 📈 GitHub Stats & Activity  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RydertHuGlIfE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RydertHuGlIfE&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak"/>
+</p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RydertHuGlIfE/RydertHuGlIfE/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RydertHuGlIfE/RydertHuGlIfE/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RydertHuGlIfE/RydertHuGlIfE/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
-## 📫 Connect With Me  
-<a href="https://www.linkedin.com/in/varun-chauhan-174107288/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-<a href="https://discord.com/users/844143559509803023">
-    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+---
+
+### 🌟 Featured Projects  
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **💥 IITD_Feb26_RL_MINESWEEPER** | An advanced AI agent that plays Minesweeper, trained utilizing SFT and REINFORCE reinforcement learning techniques. | [View Repo](https://github.com/RydertHuGlIfE/IITD_Feb26_RL_MINESWEEPER) |
+| **🧠 VortexMind_2.0** | A comprehensive study helper platform equipped with a variety of integrated tools to enhance interactive learning. | [View Repo](https://github.com/RydertHuGlIfE/VortexMind_2.0) |
+| **📚 KitaabGyaani** *(In Progress)* | A powerful intelligent document analysis and synthesis engine designed to provide deep reading insights. | [View Repo](https://github.com/RydertHuGlIfE/KitaabGyaani) |
+| **🖥️ rstui** | A custom project designed to streamline and enhance user interfaces. | [View Repo](https://github.com/RydertHuGlIfE/rstui) |
+
+---
+
+### 📫 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/varun-chauhan-174107288/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://discord.com/users/844143559509803023">
+      <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
 
+<p align="center">
+  ✨ <i>Feel free to check out my repositories and contribute!</i> ✨
+</p>
 
-✨ **Feel free to check out my repositories and contribute!**  
+</div>
