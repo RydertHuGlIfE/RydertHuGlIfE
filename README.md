@@ -67,11 +67,9 @@ class Ryder:
 
 <br/><br/>
 
-<!-- GitHub Contribution Heatmap -->
-<img src="https://metrics.lecoq.io/RydertHuGlIfE?template=classic&base=activity&plugin_isocalendar=1" width="100%">
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://ghchart.rshah.org/00ff88/RydertHuGlIfE" width="100%">
 
+</div>
 ## 🌟 Featured Projects
 
 <div align="center">
