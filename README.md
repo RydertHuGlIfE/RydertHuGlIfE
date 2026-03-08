@@ -60,8 +60,6 @@ class Ryder:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RydertHuGlIfE&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
-
 <img src="https://streak-stats.demolab.com?user=RydertHuGlIfE&theme=github-dark&hide_border=true" width="49%" />
 
 </p>
