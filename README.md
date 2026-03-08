@@ -130,4 +130,3 @@ class Ryder:
 <div align="center">
 <sub>✨ Feel free to explore my repos and drop a ⭐ if something sparks your interest!</sub>
 </div>
-****
