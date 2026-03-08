@@ -60,21 +60,17 @@ class Ryder:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RydertHuGlIfE&show_icons=true&theme=github_dark&hide_border=true" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RydertHuGlIfE&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RydertHuGlIfE&theme=github-dark&hide_border=true" width="49%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=RydertHuGlIfE&theme=github-dark&hide_border=true" width="49%" />
 
 </p>
 
 <p align="center">
 
-<img src="https://ghchart.rshah.org/00ff88/RydertHuGlIfE" width="100%" alt="GitHub Contribution Heatmap"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RydertHuGlIfE&bg_color=0d0d0d&color=00ff88&line=00ff88&point=00ff88&area=true&hide_border=true" width="100%">
 
 </p>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌟 Featured Projects
 
