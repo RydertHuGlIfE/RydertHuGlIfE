@@ -76,7 +76,7 @@ class Ryder:
 
 | 🖥️ VELLTUI — Rsync+Server Control Terminal UI | 💣 RL Minesweeper AI Agent |
 |---|---|
-| An interactive, high-performance **TUI for file transfers** using `rsync` + `sshpass`, built in Python. Visual local/remote filesystem browser, profile management, delta-transfer engine, and real-time progress bars. | An AI agent trained to beat Minesweeper using **SFT + Reinforce4D** training pipeline. Built for IIT Delhi Feb '26 hackathon — real-world RL applied to a classic game. |
+| An interactive, high-performance **TUI for file transfers** and server control using `rsync` + `sshpass` and others, built in Python. Visual local/remote filesystem browser, profile management, delta-transfer engine, and real-time progress bars. | An AI agent trained to beat Minesweeper using **SFT + Reinforce4D** training pipeline. — real-world RL applied to a classic game. |
 | `Python` `rsync` `TUI` `Linux/macOS` | `Python` `Reinforcement Learning` `SFT` |
 | [![View →](https://img.shields.io/badge/View_Repo-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/RydertHuGlIfE/rstui) | [![View →](https://img.shields.io/badge/View_Repo-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/RydertHuGlIfE/IITD_Feb26_RL_MINESWEEPER) | ![WIP](https://img.shields.io/badge/🚧_In_Progress-ff8800?style=flat-square) |
 
