@@ -21,7 +21,7 @@
 class Ryder:
     name        = "Varun Chauhan"
     alias       = "Ryder_2001"
-    focus       = ["Python", "AI/ML", "Systems Programming"]
+    focus       = ["Python", "AI/ML", "Systems Programming", "Interest in CyberSecurity"]
     interests   = ["LLMs", "Reinforcement Learning", "Terminal UIs", "Productivity Tools"]
     philosophy  = "Ship code. Break things. Learn faster."
 ```
