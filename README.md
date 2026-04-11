@@ -82,7 +82,7 @@ class Ryder:
 
 <br/>
 
-| 🌀 VortexMind 2.0 — AI Study Helper | 📖 KitaabGyaani — AI Knowledge Platform |
+| 🌀 Jam_bo — Create Jams | 📖 KitaabGyaani — AI Knowledge Platform |
 |---|---|
 | An all-in-one **AI-powered study companion** packed with tools to supercharge learning and productivity. Multi-tool suite with AI-assisted workflows built for students who want to learn smarter. | An ambitious **AI-powered document intelligence platform** for deep knowledge understanding and conversational Q&A over your own knowledge base. |
 | `Python` `AI/ML` `Flask` | `Python` `LLMs` `AI/ML` |
