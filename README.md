@@ -84,9 +84,9 @@ class Ryder:
 
 | 🌀 Jam_bo — Create Jams | 📖 KitaabGyaani — AI Knowledge Platform |
 |---|---|
-| An all-in-one **AI-powered study companion** packed with tools to supercharge learning and productivity. Multi-tool suite with AI-assisted workflows built for students who want to learn smarter. | An ambitious **AI-powered document intelligence platform** for deep knowledge understanding and conversational Q&A over your own knowledge base. |
+| A recreation of spotify jam that can be used to stream songs with your friends and family, with no ads and more than adequate response times. | An ambitious **AI-powered document intelligence platform** for deep knowledge understanding and conversational Q&A over your own knowledge base. |
 | `Python` `AI/ML` `Flask` | `Python` `LLMs` `AI/ML` |
-| [![View →](https://img.shields.io/badge/View_Repo-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/RydertHuGlIfE/VortexMind_2.0) | [![View →](https://img.shields.io/badge/View_Repo-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/RydertHuGlIfE/KitaabGyaani) ![WIP](https://img.shields.io/badge/🚧_In_Progress-ff8800?style=flat-square) |
+| [![View →](https://img.shields.io/badge/View_Repo-00ff88?style=for-the-badge&logo=github&logoColor=black)](*https://github.com/RydertHuGlIfE/Jam_bo*) | [![View →](https://img.shields.io/badge/View_Repo-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/RydertHuGlIfE/KitaabGyaani) ![WIP](https://img.shields.io/badge/🚧_In_Progress-ff8800?style=flat-square) |
 
 </div>
 
