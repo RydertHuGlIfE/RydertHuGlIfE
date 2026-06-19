@@ -86,7 +86,7 @@ class Ryder:
 |---|---|
 | A recreation of spotify jam that can be used to stream songs with your friends and family, with no ads and more than adequate response times. | An ambitious **AI-powered document intelligence platform** for deep knowledge understanding and conversational Q&A over your own knowledge base. |
 | `Python` `AI/ML` `Flask` | `Python` `LLMs` `AI/ML` |
-| [![View →](https://img.shields.io/badge/View_Repo-00ff88?style=for-the-badge&logo=github&logoColor=black)](*https://github.com/RydertHuGlIfE/Jam_bo*) | [![View →](https://img.shields.io/badge/View_Repo-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/RydertHuGlIfE/KitaabGyaani) ![WIP](https://img.shields.io/badge/🚧_In_Progress-ff8800?style=flat-square) |
+| [![View →](https://img.shields.io/badge/View_Repo-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/RydertHuGlIfE/Jam_bo) | [![View →](https://img.shields.io/badge/View_Repo-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/RydertHuGlIfE/KitaabGyaani) ![WIP](https://img.shields.io/badge/🚧_In_Progress-ff8800?style=flat-square) |
 
 </div>
 
