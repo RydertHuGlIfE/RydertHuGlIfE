@@ -6,7 +6,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=RydertHuGlIfE\&color=00ff88\&style=for-the-badge\&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/RydertHuGlIfE?color=00ff88\&style=for-the-badge\&logo=github\&label=FOLLOWERS)](https://github.com/RydertHuGlIfE)
 
 </div>
