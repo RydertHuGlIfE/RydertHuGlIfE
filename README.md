@@ -39,18 +39,25 @@ class Ryder:
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Bash](https://skillicons.dev/icons?i=bash)
 
 **Frameworks & Libraries**
 
+![React](https://skillicons.dev/icons?i=react)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![Flask](https://skillicons.dev/icons?i=flask)
 ![Scikit-learn](https://skillicons.dev/icons?i=sklearn)
 
 **Tools & Platforms**
 
 ![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
 ![Linux](https://skillicons.dev/icons?i=linux)
+![Discord](https://skillicons.dev/icons?i=discord)
 
+**Focus Areas**
+
+`LLMs` `Reinforcement Learning` `SFT` `Terminal UIs` `rsync / SSH` `Voice & Gesture Systems`
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
