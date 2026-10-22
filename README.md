@@ -96,9 +96,15 @@ class Ryder:
 
 ```
 ┌───────────────────────────────────────────────┐
-│ 🤖 JARVIS AI Voice System         [██████░░░░] │
-│ 👁 Jam_bo                         [██████░░░░] │
-│ 📖 KitaabGyaani                   [███░░░░░░░] │
+│ 🤖 JARVIS AI Voice System        [██████░░░░] │
+│ 👁 Jam_bo                        [██████░░░░] │
+│ 📖 KitaabGyaani                  [███░░░░░░░] │
+│ 🖥 VELLTUI (rsync TUI)           [█████████░] │
+│ 💣 RL Minesweeper Agent          [████████░░] │
+│ 🤖 AI Discord Bot                [█████████░] │
+│ 🖐 Gesture Tracking              [█████░░░░░] │
+│ 📄 rt-PDF                        [███░░░░░░░] │
+│ 🎙 MicSWAP                       [██████░░░░] │
 └───────────────────────────────────────────────┘
 ```
 
